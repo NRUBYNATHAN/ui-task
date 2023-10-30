@@ -1,0 +1,55 @@
+.RightCon {
+  border-radius: 10px;
+  width: 230px;
+  height: 707px;
+}
+.right-top-letter {
+  display: flex;
+  gap: 30px;
+}
+.let1 {
+  margin: 0;
+}
+.let2 {
+  margin: 0;
+  color: #8d8d8d;
+}
+.right1_img {
+  width: 50px;
+  height: 50px;
+}
+.right1 {
+  padding-left: 10px;
+
+  position: relative;
+  bottom: 280px;
+  display: flex;
+  gap: 20px;
+
+  align-items: center;
+}
+.right1_head {
+  margin: 0;
+  color: rgb(245, 244, 244);
+  opacity: 1;
+  font-size: 15px;
+}
+.right1-para {
+  margin: 0;
+  color: rgb(250, 248, 248);
+  opacity: 1;
+  font-size: 15px;
+}
+.right1-back {
+  width: 210px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.right-con {
+  margin-top: 10px;
+}
+.right-content {
+  height: 700px;
+  overflow-y: scroll;
+}

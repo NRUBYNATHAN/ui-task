@@ -1,0 +1,63 @@
+.search_icon{
+    width: 20px;
+    height: 20px;
+}
+.search_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.search{
+    background-color:#FFFFFF ;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:  620px;
+    height:80px;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.logo1{
+    background-color: #fbfafa;
+ 
+    border-radius: 10px;
+    width: 260px;
+    height: 80px;
+}
+.logoname{
+
+    margin: 0;
+    text-align: left;
+font: normal normal normal 32px/44px Mongolian Baiti;
+
+color: #101010;
+opacity: 1;
+padding-left:30px ;
+padding-top:20px ;
+padding-bottom:20px ;
+}
+.side-btn{
+    background: #88C2BB;
+border-radius: 10px;
+width: 260px;
+height: 80px;
+}
+.side-btn-text{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    color: white;
+}
+.search_placeholder{
+    color: #9A9A9E;
+}
+.main_navbar{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 20px;
+}

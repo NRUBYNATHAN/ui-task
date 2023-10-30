@@ -1,0 +1,81 @@
+.CenterCon {
+  border-radius: 10px;
+  width: 620px;
+  height: 707px;
+}
+.main-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.con1_img {
+  width: 50px;
+  height: 50px;
+}
+.con1 {
+  display: flex;
+  gap: 20px;
+
+  align-items: center;
+}
+.con1_head {
+  margin: 0;
+}
+.con1-para {
+  margin: 0;
+}
+.con1_hover {
+  color: rgb(233, 48, 78);
+}
+.con1_back_img {
+  width: 550px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.con_icon {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.con1_icons {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.content1 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  height: auto;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+.bot_con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.num {
+  font-size: 20px;
+}
+.bot_ban1 {
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+.bot1 {
+  width: 300px;
+}
+.bots {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 620px;
+  overflow-x: scroll;
+}
